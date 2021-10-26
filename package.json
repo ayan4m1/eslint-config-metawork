@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-metawork",
+  "version": "0.1.0",
+  "description": "Extendable configuration for projects using Metawork",
+  "main": "index.js",
+  "keywords": [
+    "metawork",
+    "eslint"
+  ],
+  "author": "ayan4m1 <andrew@bulletlogic.com>",
+  "license": "MIT"
+}
